@@ -1,3 +1,17 @@
+body {
+    background-color: #133a1b;
+}
+
 .main-text-color {
-    color: #fd9
+    color: #fd9;
+}
+
+#main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    font-size: 10dvw;
 }
